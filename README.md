@@ -20,4 +20,10 @@ Clone the repository:
 git clone https://github.com/bjornmoggy001/task-flow.git
 cd task-flow
 ```
+```bash
+npm install
+```
+```bash
+npm run dev
+```
 >>>>>>> origin/main
